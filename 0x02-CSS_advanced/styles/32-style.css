@@ -208,8 +208,8 @@ template {
   --header-logo-link-left: 0;
 
   /* New custom properties for .card */
-  --transition-duration: 0.3s;
-  --transition-cubic-bezier: cubic-bezier(0.17, 0.67, 0, 1);
+  --transition-duration: .3s;
+  --transition-cubic-bezier: cubic-bezier(0.17, 0.67, 0, 1.0);
 }
 
 /* Universal box-sizing rule */
